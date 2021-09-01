@@ -1,0 +1,80 @@
+python3 ./bots/MyBot2.py
+python3 ./bots/MyBot3.py
+30 30
+168711-4211038634.hlt 4211038634
+1 2 300
+2 1 300
+ 
+ 
+python3 ./bots/MyBot2.py
+python3 ./bots/MyBot4.py
+30 30
+168713-4212557562.hlt 4212557562
+1 1 300
+2 2 300
+ 
+ 
+python3 ./bots/MyBot2.py
+python3 ./bots/MyBot4.py
+30 30
+168714-4214029340.hlt 4214029340
+1 2 300
+2 1 300
+ 
+ 
+python3 ./bots/MyBot3.py
+python3 ./bots/MyBot2.py
+30 30
+168716-4215561844.hlt 4215561844
+1 2 300
+2 1 300
+ 
+ 
+python3 ./bots/MyBot3.py
+python3 ./bots/MyBot4.py
+30 30
+168718-4217719029.hlt 4217719029
+1 2 300
+2 1 300
+ 
+ 
+python3 ./bots/MyBot3.py
+python3 ./bots/MyBot4.py
+110 130
+168937-141513423.hlt 141513423
+1 2 300
+2 1 301
+ 
+ 
+python3 ./bots/MyBot4.py
+python3 ./bots/MyBot2.py
+110 130
+168961-165584836.hlt 165584836
+1 2 244
+2 1 245
+ 
+ 
+python3 ./bots/MyBot4.py
+python3 ./bots/MyBot3.py
+110 130
+168980-184381100.hlt 184381100
+1 2 1195
+2 1 1195
+ 
+ 
+python3 ./bots/MyBot2.py
+python3 ./bots/MyBot4.py
+110 130
+169167-371301275.hlt 371301275
+1 2 1195
+2 1 1195
+ 
+ 
+python3 ./bots/MyBot4.py
+python3 ./bots/MyBot3.py
+110 130
+169326-530966909.hlt 530966909
+1 2 1195
+2 1 1195
+ 
+ 
