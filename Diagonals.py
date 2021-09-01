@@ -1,9 +1,8 @@
 import hlt
 from hlt import NORTH, EAST, SOUTH, WEST, STILL, Move, Square, opposite_cardinal
-import random
 
 myID, game_map = hlt.get_init()
-hlt.send_init("TestBot")
+hlt.send_init("Diagonals")
 
 def getDirection(startX, startY, stopX, stopY):
     diffX = startX - stopX
@@ -63,5 +62,3 @@ while True:
                 moves.append(Move(square, dir))
 
     hlt.send_frame(moves)
-
-

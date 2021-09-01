@@ -14,7 +14,8 @@ while True:
 
     for square in game_map:
         if square.owner == myID:
-            moves.append(Move(square, random.choice((NORTH, EAST, SOUTH, WEST, STILL))))
+            newMove = Move(square, random.choice((NORTH, EAST, SOUTH, WEST, STILL)))
+            moves.append(newMove)
 
     ########### Your code ends here ###########
 
